@@ -125,12 +125,7 @@ I enjoy building projects, experimenting with security labs, and learning how mo
 
 # 🏆 Certifications
 
-| Certification | Status |
-|---|---|
-| ISC2 Certified in Cybersecurity (CC) | ✅ Completed |
-| CompTIA Security+ | 🔄 Learning |
-| Cisco Cybersecurity | 🔄 Learning |
-| Cloud Security Certifications | 🔄 Learning |
+
 
 ---
 
@@ -157,18 +152,6 @@ Building applications using:
 - Databases
 - Authentication Systems
 
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
-
-</div>
-
-
 ---
 
 # 📫 Connect With Me
@@ -176,15 +159,15 @@ Building applications using:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ifeanyi-edwin-mgbolu-itp-sa-34245b383/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://eddydev.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=googlechrome">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nondhim@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
