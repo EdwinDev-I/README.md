@@ -155,7 +155,9 @@ Building applications using:
 
 *ON Finished Projects And Also Ongoing Projects:*
 
-[AegisSOC: Cloud-Based Threat Detection and Response Lab]()
+[AegisSOC: Cloud-Based Threat Detection and Response Lab](https://github.com/EdwinDev-I/AWS-AegisSOC-Monitoring-Lab.git)
+
+[🌙Dream-Atlas]()
 
 ---
 
