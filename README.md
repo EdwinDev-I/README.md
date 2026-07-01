@@ -125,6 +125,7 @@ I enjoy building projects, experimenting with security labs, and learning how mo
 
 # 🏆 Certifications
 
+[Link To Certs Repo](https://github.com/EdwinDev-I/Certifications.git)
 
 
 ---
