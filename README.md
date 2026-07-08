@@ -76,17 +76,29 @@ I enjoy building projects, experimenting with security labs, and learning how mo
 # 🛠️ Tools & Technologies
 
 
-### Security Tools
+### 🛡️ Security Tools
 
 <p>
 
 <img src="https://img.shields.io/badge/Wazuh-4A90E2?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark">
-
 <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Nmap-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Suricata-EF3E42?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/SpiderFoot-4B0082?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white">
+
+<img src="https://img.shields.io/badge/Shodan-EA4335?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/theHarvester-228B22?style=for-the-badge">
 
 </p>
 
