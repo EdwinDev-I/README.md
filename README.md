@@ -165,7 +165,7 @@ Building applications using:
 - Databases
 - Authentication Systems
 
-*ON Finished Projects And Also Ongoing Projects:*
+### UnFinished Projects And Also Ongoing Projects:
 
 [AegisSOC: Cloud-Based Threat Detection and Response Lab](https://github.com/EdwinDev-I/AWS-AegisSOC-Monitoring-Lab.git)
 
